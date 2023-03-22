@@ -1,0 +1,6 @@
+[
+  "{\n  \"type\" : \"gitee\",\n  \"id\" : \"1594009736\",\n  \"name\" : \"GitHub\",\n  \"data\" : \"{\\n  \\\"owner\\\" : \\\"shuwenjun\\\",\\n  \\\"repo\\\" : \\\"oss\\\",\\n  \\\"branch\\\" : \\\"master\\\",\\n  \\\"domain\\\" : \\\"\\\",\\n  \\\"token\\\" : \\\"effc431034d8d1c53357619b89ffa100\\\",\\n  \\\"saveKeyPath\\\" : \\\"\\\"\\n}\"\n}",
+  "{\n  \"type\" : \"smms\",\n  \"name\" : \"SMMS\",\n  \"data\" : \"{\\n  \\\"version\\\" : \\\"v1\\\",\\n  \\\"token\\\" : \\\"\\\"\\n}\",\n  \"id\" : \"1648103703\"\n}",
+  "{\n  \"type\" : \"github\",\n  \"name\" : \"GitHub\",\n  \"data\" : \"{\\n  \\\"repo\\\" : \\\"OSS\\\",\\n  \\\"owner\\\" : \\\"shuwenjunn\\\",\\n  \\\"branch\\\" : \\\"master\\\",\\n  \\\"token\\\" : \\\"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\\\",\\n  \\\"domain\\\" : \\\"https:\\\\\\\/\\\\\\\/cdn.jsdelivr.net\\\\\\\/gh\\\\\\\/shuwenjunn\\\\\\\/OSS@master\\\",\\n  \\\"useCdn\\\" : true,\\n  \\\"saveKeyPath\\\" : \\\"\\\"\\n}\",\n  \"id\" : \"1666081687\"\n}",
+  "{\n  \"type\" : \"weibo\",\n  \"name\" : \"微博\",\n  \"data\" : \"{\\n  \\\"domain\\\" : \\\"https:\\\\\\\/\\\\\\\/ww1.sinaimg.cn\\\",\\n  \\\"cookieMode\\\" : false,\\n  \\\"username\\\" : \\\"15527377390\\\",\\n  \\\"cookie\\\" : \\\"\\\",\\n  \\\"password\\\" : \\\"1a.fffff\\\",\\n  \\\"quality\\\" : \\\"large\\\"\\n}\",\n  \"id\" : \"1666093080\"\n}"
+]
